@@ -4,7 +4,7 @@ export default {
   config: {
     locales: [
       // 'ar',
-      // 'fr',
+      'fr',
       // 'cs',
       // 'de',
       // 'dk',
@@ -30,8 +30,12 @@ export default {
       // 'zh-Hans',
       // 'zh',
     ],
+    theme: {
+      colors: {
+        primary500: '#ac73e6'
+      }
   },
   bootstrap(app: StrapiApp) {
     console.log(app);
-  },
+  },}
 };

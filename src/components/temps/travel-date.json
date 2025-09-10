@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_temps_travel_dates",
+  "info": {
+    "displayName": "travel_date"
+  },
+  "options": {},
+  "attributes": {
+    "start_date": {
+      "type": "date"
+    },
+    "end_date": {
+      "type": "date"
+    }
+  },
+  "config": {}
+}

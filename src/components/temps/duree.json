@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_temps_durees",
+  "info": {
+    "displayName": "Duree"
+  },
+  "options": {},
+  "attributes": {
+    "Jour": {
+      "type": "integer"
+    },
+    "Nuit": {
+      "type": "integer"
+    }
+  },
+  "config": {}
+}
